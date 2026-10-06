@@ -69,8 +69,7 @@ Business Decision
 
 ## 📂 Project Files
 
-- `CoffeeShop_Sales_Analysis.sql` — SQL queries used for the analysis
-- `screenshots/` — Query results and analysis screenshots
+- `coffeshopeproject.sql` — SQL queries used for the analysis
 
 ## 👨‍💻 Author
 
